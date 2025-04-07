@@ -22,13 +22,6 @@ This app is a **basic Android application** with a simple layout and minimal fun
 - **IDE:** Android Studio  
 - **Target SDK:** [e.g., 33]  
 - **Minimum SDK:** [e.g., 21]  
-
----
-
-## 📸 Screenshots
-
-*(Optional – Add screenshots of your app's main screen here)*
-
 ---
 
 ## 🧪 Features
