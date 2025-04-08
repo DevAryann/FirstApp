@@ -1,7 +1,7 @@
 # First Android App
 
 Welcome to my **first Android app**! 📱  
-This is a basic project developed to explore Android development fundamentals using **Java/Kotlin** (choose whichever you used) and **Android Studio**.
+This is a basic project developed to explore Android development fundamentals using **Kotlin** and **Android Studio**.
 
 ---
 
